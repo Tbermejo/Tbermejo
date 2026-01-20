@@ -1,16 +1,18 @@
-## Hi there 👋
+## Spatial Data Scientist | Geostatistics | Forest & Environmental Modeling
 
-<!--
-**Tbermejo/Tbermejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profesional en Ingeniería Forestal con especialización en Estadística. Experiencia en recopilación, procesamiento
+y análisis de datos cuantitativos y cualitativos, modelamiento predictivo y técnicas geoespaciales para apoyar procesos de planeación territorial y ciencia de datos aplicada al estudio y monitoreo de la biodiversidad.
 
-Here are some ideas to get you started:
+## Líneas de trabajo:
+- Análisis espacial y SIG.
+- Modelación ambiental y forestal.
+- Ciencia de datos aplicada al estudio de la biodiversidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Herramientas y lenguajes:
+- SIG: QGIS, ArcGIS, Google Earth Engine.
+- Lenguajes: Python, R.
+- Modelación y Simulación: Dinamica EGO, FragStats.
+- Herramientas: LaTeX, RMarkdown, Quarto, Streamlit, GitHub, PowerBI.
+
+## Objetivo profesional:
+Contribuir técnica y conceptualmente en procesos de planeación sistemática de la conservación, generando portafolios de priorización que integren criterios ecológicos, sociales y espaciales, apoyados en algoritmos y análisis de datos reproducibles.
